@@ -1,0 +1,8 @@
+{
+	"saltstack_enterprise_installer":[
+		
+		 "TestVM-Win16",
+		 "TestVM-Win22",
+		 "TestVM01-Win22"
+	]
+}
